@@ -3,6 +3,7 @@ import './HeaderArea.css'
 import { AiFillHome, AiOutlineSearch, AiOutlineWallet } from "react-icons/ai"
 import { MdOndemandVideo } from "react-icons/md"
 import { FaBell, FaFacebookMessenger, FaPlusCircle, FaRegFlag, FaUsers } from "react-icons/fa";
+import MainArea from "../mainarea/MainArea";
 
 function HeaderArea() {
     return (
@@ -52,6 +53,7 @@ function HeaderArea() {
 
                 </div>
             </div>
+            <MainArea />
         </div>
     )
 }
