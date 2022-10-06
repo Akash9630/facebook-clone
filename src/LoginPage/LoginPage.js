@@ -9,7 +9,7 @@ function LoginPage() {
                 </div>
                 <div className="title">
                     Facebook helps you connect and share<br />
-                    with the people in your life
+                    with the people in your life.
                 </div>
             </div>
             <div className="LoginContainer">
@@ -18,12 +18,14 @@ function LoginPage() {
                     <br />
                     <input type="password" placeholder="Password" />
                     <br />
-                    <button className="btn">
-                        <Link to="/HeaderArea">Login</Link>
-                    </button>
+                    <Link to="/HeaderArea">
+                        <button className="btn">
+                            Log in
+                        </button>
+                    </Link>
                 </div>
                 <div className="forget">
-                    <a href="forget">Forgotten Password</a>
+                    <a href="forget">Forgotten Password?</a>
                     <br />
                     <button className="btns">
                         Create New Account
@@ -38,9 +40,8 @@ function LoginPage() {
                         </strong>
                     </a> for a celebrity, brand or business.
                 </div>
-
-
             </div>
+
         </div>
     )
 }

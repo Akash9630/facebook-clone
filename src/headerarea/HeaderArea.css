@@ -28,6 +28,12 @@ body {
 .first-header {
   display: flex;
 }
+.Logo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0 20px;
+}
 .Search {
   display: flex;
   align-items: center;
@@ -73,7 +79,6 @@ input::placeholder {
   align-items: center;
   cursor: pointer;
   padding: 0px 50px;
-  /* margin-right: 10px; */
   border-radius: 50%;
   height: 2.7rem;
   background-color: #f0f2f5;
@@ -87,18 +92,12 @@ input::placeholder {
   font-weight: 500;
   border-radius: 50%;
   height: 3rem;
-  margin-right: 20px;
+  /* margin-right: 20px; */
 }
 .Pluss > div {
   padding-left: 10px;
 }
 .Pluss > img {
   border-radius: 50%;
-  max-width: 40%;
-}
-.logo {
-  display: flex;
-  align-items: center;
-  cursor: pointer;
-  padding: 0 50px;
+  width: 40%;
 }

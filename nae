@@ -1,0 +1,68 @@
+<div className="Story">
+  <img src="../stories/simbu1.webp" alt="not found" style={{ height: "60px", width: "50px", borderRadius: "60%" }}
+  />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  simbu1
+</div>
+
+<div className="Story">
+  <img src="../stories/car.webp" alt="not found" style={{ height: "60px", width: "50px", borderRadius: "60%" }}
+  />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  car
+</div>
+<div className="Story">
+  <img src="../stories/dhanush.webp" alt="not found" style={{ height: "60px", width: "50px", borderRadius: "60%" }}
+  />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  dhanush
+</div>
+<div className="Story">
+  <img src="../stories/Dhanush1.webp" alt="not found" style={{ height: "60px", width: "50px", borderRadius: "60%" }}
+  />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  Dhanush1
+</div>
+<div className="Story">
+  <img src="../stories/kamal.webp" alt="not found" style={{ height: "60px", width: "50px", borderRadius: "60%" }}
+  />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  kamal
+</div>
+
+<div className="Story">
+  <img src="../stories/siva.webp" alt="not found" style={{ height: "60px", width: "50px", borderRadius: "60%" }}
+  />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  siva
+</div>
