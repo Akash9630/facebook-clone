@@ -1,0 +1,119 @@
+.MainArea {
+  display: grid;
+  width: 50%;
+  height: 30rem;
+  justify-content: center;
+}
+.addStory {
+  display: flex;
+  width: 200%;
+  margin: 18px 0;
+  color: white;
+  font-size: 1.5rem;
+  height: 20rem;
+  justify-content: flex-start;
+  padding-left: 5%;
+}
+.Story {
+  width: 200px;
+  margin: 0 10px;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  background-color: black;
+}
+.message {
+  display: grid;
+  height: 25rem;
+  width: 80%;
+  margin-left: 5%;
+}
+.Post {
+  margin-top: 10%;
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  background-color: white;
+  margin-left: 0;
+}
+.Post > div {
+  margin-left: 2px;
+}
+.Post > img {
+  height: 45px;
+  border-radius: 50%;
+  width: 45px;
+  margin: 12px;
+}
+input[type="Mind"] {
+  width: 80%;
+  margin: 15px 0;
+  height: 3rem;
+  display: inline;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  margin-left: 5%;
+  box-sizing: border-box;
+}
+.Call {
+  display: flex;
+  align-items: center;
+  margin-left: 0;
+  height: 5rem;
+  background-color: white;
+}
+.ico {
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+}
+
+.Posted {
+  display: grid;
+  height: auto;
+  width: 80%;
+  align-items: flex-start;
+  background-color: white;
+  margin-left: 1%;
+}
+.poster {
+  display: flex;
+  justify-content: space-between;
+}
+.Simplilearn {
+  display: flex;
+  justify-content: space-between;
+  margin: 22px;
+  font-size: 1rem;
+  font-weight: 550;
+}
+.update {
+  font-size: 1rem;
+  font-weight: 400;
+  padding-left: 20px;
+}
+.edit {
+  margin: 12px;
+}
+.caption {
+  font-size: 1.3rem;
+  font-weight: 500;
+  word-wrap: break-word;
+  padding-left: 4%;
+}
+.Comment {
+  display: flex;
+  justify-content: space-around;
+  height: 5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.Like {
+  display: flex;
+  flex: wrap;
+  align-items: center;
+  font-weight: 400;
+  font-size: 1.5rem;
+}

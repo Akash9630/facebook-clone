@@ -1,0 +1,55 @@
+.Rside {
+  height: 50rem;
+  width: 21%;
+  left: 0;
+  flex-wrap: wrap;
+}
+.Profile {
+  display: flex;
+  align-items: center;
+  font-size: 1.8rem;
+  font-weight: 550;
+}
+.Profile > img {
+  border-radius: 50%;
+  width: 15.5%;
+}
+.Pro {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 1.5rem;
+  font-weight: 550;
+  padding: 1.2rem;
+  padding-left: 1rem;
+}
+.Pro > div {
+  margin: 10px;
+}
+.Pross {
+  display: flex;
+  align-items: center;
+  font-size: 1.8rem;
+  font-weight: 550;
+  padding-left: 1rem;
+  padding: 0 15px;
+  border-bottom: 0.1rem rgb(68, 62, 62) solid;
+}
+.Profiles {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: 550;
+  padding: 5px;
+}
+.Profiles > img {
+  border-radius: 30%;
+  width: 20%;
+}
+.Pross {
+  display: flex;
+  align-items: center;
+  font-weight: 550;
+  font-size: 1.5rem;
+  padding: 0 15px;
+}
